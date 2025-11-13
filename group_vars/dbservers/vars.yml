@@ -1,0 +1,4 @@
+# MySQL konfigureerimine
+mysql_root_user: "root"
+mysql_bind_address: "127.0.0.1"
+mysql_max_connections: 100

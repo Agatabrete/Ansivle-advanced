@@ -1,0 +1,4 @@
+# Apache/Nginx seadistused
+max_workers: "{{ ansible_processor_vcpus * 2 }}"
+max_connections: 1000
+keepalive_timeout: 65
